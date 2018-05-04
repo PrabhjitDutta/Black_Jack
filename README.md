@@ -1,2 +1,3 @@
-# Black_Jack
-Python script to play Bhack Jack with Computer
+# A-Game-of-BlackJack
+
+A Game of Blackjack made in python.
